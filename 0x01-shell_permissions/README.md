@@ -1,1 +1,1 @@
-a script that sets the mode of a file the same as that of another file
+a script that creates a directory with permission in the working directory
