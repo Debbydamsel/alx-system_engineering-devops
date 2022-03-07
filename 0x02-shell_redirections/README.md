@@ -10,3 +10,4 @@ task 15-counting the words
 task 16-displaying lines that contain a pattern and three lines after
 task 17-listing of lines in files that do not contain bin
 display all the lines of a file starting with a letter
+replacing characters
