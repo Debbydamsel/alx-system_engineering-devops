@@ -5,3 +5,4 @@ task 10-deleting files
 task 11-making directories count
 task 12-sorting files
 task 13-printing a list of words
+displaying lines containing a pattern
