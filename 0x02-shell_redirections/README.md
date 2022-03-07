@@ -12,3 +12,4 @@ task 17-listing of lines in files that do not contain bin
 display all the lines of a file starting with a letter
 replacing characters
 removing of letters from input
+reversing of input
