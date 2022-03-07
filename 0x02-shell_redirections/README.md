@@ -1,1 +1,1 @@
-task 4-displaying the last ten lines of a file
+task 5-displaying the first ten lines
