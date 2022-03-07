@@ -4,3 +4,4 @@ task 8-a script that duplicates the last line of a file
 task 10-deleting files
 task 11-making directories count
 task 12-sorting files
+task 13-printing a list of words
