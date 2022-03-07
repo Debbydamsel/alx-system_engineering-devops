@@ -1,1 +1,1 @@
-task 5-displaying the first ten lines
+displaying the third line of a file
