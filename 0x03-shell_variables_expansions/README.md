@@ -4,3 +4,4 @@ task 3-counting the number of directories in the path
 task 4-printing the environment variables
 task 4-printing the environment variables
 task 5-printing the list of local varaibles
+task 6-creating a local variable
