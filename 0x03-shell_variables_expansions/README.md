@@ -11,3 +11,4 @@ task 9-dividing variables
 task 10-displaying the result of breath to the power of love
 task 11- converting binary to decimal
 printing all possible combinations from a-z except oo
+printing a number with two decimal places
