@@ -14,3 +14,4 @@ printing all possible combinations from a-z except oo
 printing a number with two decimal places
 task 0-creating an alias
 task 14-decimal to hexadecimal
+task 15-encoding and decoding text
