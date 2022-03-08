@@ -9,3 +9,4 @@ task 7-creating a global variable
 task 8-adding of numbers to a stored value
 task 9-dividing variables
 task 10-displaying the result of breath to the power of love
+task 11- converting binary to decimal
