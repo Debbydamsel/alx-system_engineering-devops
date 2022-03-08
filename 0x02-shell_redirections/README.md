@@ -15,3 +15,4 @@ removing of letters from input
 reversing of input
 22-users_and_homes
 task 23-finding all empty files in dirctories and subdirectories
+task 25-acrostic poem
