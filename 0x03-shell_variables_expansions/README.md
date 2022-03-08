@@ -7,3 +7,4 @@ task 5-printing the list of local varaibles
 task 6-creating a local variable
 task 7-creating a global variable
 task 8-adding of numbers to a stored value
+task 9-dividing variables
