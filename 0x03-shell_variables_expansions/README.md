@@ -15,3 +15,4 @@ printing a number with two decimal places
 task 0-creating an alias
 task 14-decimal to hexadecimal
 task 15-encoding and decoding text
+a script that prints every other line from the input, starting with the first line
